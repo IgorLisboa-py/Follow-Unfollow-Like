@@ -1,4 +1,4 @@
-BOT para seguir/parar de seguir/dar like nass publicações do Instagram usando o Javascript puro
+BOT para seguir/parar de seguir/dar like nas publicações do Instagram usando o Javascript puro
 
 INSTRUÇÕES
 
